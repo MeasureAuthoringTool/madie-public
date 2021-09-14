@@ -1,3 +1,5 @@
+# @format
+
 name: Github Secrets Scanner
 
 on: [push]
