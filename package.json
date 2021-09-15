@@ -5,7 +5,7 @@
     "dist/**/*"
   ],
   "scripts": {
-    "start": "webpack serve --port 8500",
+    "start": "webpack serve --port 8503",
     "build": "concurrently npm:build:*",
     "build:webpack": "webpack --mode=production",
     "analyze": "webpack --mode=production --env analyze",
