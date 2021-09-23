@@ -24,8 +24,12 @@ export default function Root(props) {
         </InnerBox>
         <InfoTable>
           <dl>
+            <DescRowWhite>
+              <DescTerm>Version 2.0</DescTerm>
+              <DescName>Publish to NPM</DescName>
+            </DescRowWhite>
             <DescRowGray>
-              <DescTerm>Version 0.2</DescTerm>
+              <DescTerm>Version 1.5</DescTerm>
               <DescName>Added Release Notes</DescName>
             </DescRowGray>
             <DescRowWhite>
