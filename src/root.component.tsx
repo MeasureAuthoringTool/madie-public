@@ -29,7 +29,7 @@ export default function Root(props) {
               <DescName>Publish to NPM</DescName>
             </DescRowWhite>
             <DescRowGray>
-              <DescTerm>Version 1.5</DescTerm>
+              <DescTerm>Version 0.1.1</DescTerm>
               <DescName>Added Release Notes</DescName>
             </DescRowGray>
             <DescRowWhite>
