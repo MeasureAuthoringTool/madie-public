@@ -60,7 +60,7 @@
     "styled-components": "^5.3.1",
     "tailwindcss": "^2.2.9",
     "ts-config-single-spa": "^3.0.0",
-    "twin.macro": "^2.7.0",
+    "twin.macro": "^2.8.2",
     "typescript": "^4.4.2",
     "webpack": "^5.40.0",
     "webpack-cli": "^4.7.2",
@@ -84,6 +84,11 @@
   "babelMacros": {
     "twin": {
       "preset": "styled-components"
+    }
+  },
+  "overrides": {
+    "twin.macro": {
+      "dset": "3.1.2"
     }
   }
 }
